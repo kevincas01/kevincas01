@@ -1,4 +1,4 @@
-## Hello there. My name is Kevin Castro 👋
+## Hello there, my name is Kevin Castro 👋
 
 #  About Me
 My name is Kevin and I graduated from Princeton University with a degree in Computer Science. I'm a software engineer passionate about building scalable, user-centric applications and solving complex challenges with technology. I love diving into the technical decisions behind products and services—analyzing how they come to life and exploring how I would approach them.  
